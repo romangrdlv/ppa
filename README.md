@@ -1,2 +1,2 @@
-# ppa
+# PPA
 Project Portfolio Analysis
